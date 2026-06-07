@@ -1,3 +1,3 @@
 #Git learning
 
-this is fun
+this is fun, i learnt some
